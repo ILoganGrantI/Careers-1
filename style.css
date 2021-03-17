@@ -24,8 +24,36 @@
 	border: 10px solid cyan;
 	color: black;
 	background: white;
+	width: 70%;
+	height: 100%;
+	overflow: scroll;
 }
 
 .body {
-	background: rgb(0, 13, 51);
+	background-image: url("Images/7.gif");
+}
+
+#b1 {
+	border: 5px solid cyan;
+	width: 25%;
+}
+
+#b2 {
+	border: 5px solid cyan;
+	width: 25%;
+}
+
+#b3 {
+	border: 5px solid cyan;
+	width: 25%;
+}
+
+#b4 {
+	border: 5px solid cyan;
+	width: 25%;
+}
+
+#b5 {
+	border: 5px solid cyan;
+	width: 25%;
 }
