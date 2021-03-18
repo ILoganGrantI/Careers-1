@@ -1,59 +1,59 @@
 .h1-1 {
 	text-align: center;
 	border: 10px solid cyan;
-	color: black;
-	background: white;
+  color: black;
+  background: white;
 }
 
 .img {
-	height: 100px;
-	width: 200px;
-	border: 10px solid cyan;
-	background: white;
+  height: 100px;
+  width: 200px;
+  border: 10px solid cyan;
+  background: white;
 }
 
 .img-1 {
-	height: 100px;
-	width: 100px;
-	border: 10px solid cyan;
-	background: white;
+  height: 100px;
+  width: 100px;
+  border: 10px solid cyan;
+  background: white;
 }
 
 #paragraph {
-	float: right;
-	border: 10px solid cyan;
-	color: black;
-	background: white;
-	width: 70%;
-	height: 100%;
-	overflow: scroll;
+  float: right;
+  border: 10px solid cyan;
+  color: black;
+  background: white;
+  width: 70%;
+  height: 100%;
+  overflow: scroll;
 }
 
 .body {
-	background-image: url("Images/7.gif");
+  background-image: url("Images/7.gif");
 }
 
 #b1 {
-	border: 5px solid cyan;
-	width: 25%;
+  border: 5px solid cyan;
+  width: 25%;
 }
 
 #b2 {
-	border: 5px solid cyan;
-	width: 25%;
+  border: 5px solid cyan;
+  width: 25%;
 }
 
 #b3 {
-	border: 5px solid cyan;
-	width: 25%;
+  border: 5px solid cyan;
+  width: 25%;
 }
 
 #b4 {
-	border: 5px solid cyan;
-	width: 25%;
+  border: 5px solid cyan;
+  width: 25%;
 }
 
 #b5 {
-	border: 5px solid cyan;
-	width: 25%;
+  border: 5px solid cyan;
+  width: 25%;
 }
