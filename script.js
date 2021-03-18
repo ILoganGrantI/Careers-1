@@ -25,5 +25,5 @@ function change3 () {
 document.getElementById('b5').addEventListener('click', change4)
 
 function change4 () {
-	document.getElementById('paragraph').innerHTML = '<p></p>'
+	document.getElementById('paragraph').innerHTML = '<p>I choose to work in the Video Games Industry because it is my passion, I choose to be a Graphics Designer because it is my skill, and finally, I choose RockStar Games because it is a company that I respect and would be proud to be a part of. </p>'
 }
